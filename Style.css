@@ -1,0 +1,15 @@
+
+
+.button {
+    text-align: center;
+    margin: 50vh;
+
+}
+
+.button button{
+    font-size: larger;
+    font-weight: bolder;
+    background-color: blueviolet;
+    border-radius: 10px;
+    border-bottom: 10px;
+}
